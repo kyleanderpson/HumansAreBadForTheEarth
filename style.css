@@ -1,0 +1,54 @@
+body {
+  background-color: #00ffff;
+  background-image: url("bust_triple2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.LeftBox {
+  position: absolute;
+  top: 30px;
+  left: 50px;
+  bottom: 230px;
+  width: 100px;
+  background-color: #ff0000;
+  padding: 8px;
+  border-radius: 5px;
+}
+
+.RightBox {
+  position: fixed;
+  top: 30px;
+  right: 50px;
+  bottom: 280px;
+  width: 160px;
+  background-color: #ff0000;
+  padding: 8px;
+  border-radius: 5px;
+}
+
+.TextLeft {
+  position: relative;
+  background-color: #d1a790;
+  padding: 8px;
+  border-radius: 5px;
+}
+
+.TextRight {
+  position: relative;
+  background-color: #d1a790;
+  padding: 8px;
+  border-radius: 5px;
+}
+
+.linkRight {
+  position: absolute;
+  bottom: 0px;
+  left: 20px;
+}
+
+.linkLeft {
+  position: absolute;
+  bottom: 0px;
+  left: 20px;
+}
